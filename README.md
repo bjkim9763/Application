@@ -1,3 +1,5 @@
+#어플 종류
+
 하이브리드 앱Permalink
 웹 뷰를 감싸고 있는 웹사이트
 HTML, CSS, JS
